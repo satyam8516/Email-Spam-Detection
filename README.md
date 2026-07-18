@@ -4,7 +4,7 @@ A Machine Learning project that predicts whether an email is Spam or Not Spam us
 
 ## 🚀 Live Demo
 
-👉 https://your-app-name.streamlit.app
+👉 https://email-spam-detection-9mfetatnys6afjpe98c8nq.streamlit.app
 
 ## Features
 
@@ -42,4 +42,4 @@ Email-Spam-Detection/
 
 ## Author
 
-Your Name
+Satyam Gupta
